@@ -11,11 +11,11 @@ Backend API: Coming Soon
 ## 📸 Screenshots
 
 ## Home Page
-
+screenshot/doc1.JPG
 ![Home]
 
 ## Doctors
-
+doc2.JPG
 ![Doctors]
 
 ## Book Appointment
