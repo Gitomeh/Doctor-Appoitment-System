@@ -10,15 +10,25 @@ Backend API: Coming Soon
 
 ## 📸 Screenshots
 
+## Home Page
+
+![Home]
+
+## Doctors
+
+![Doctors]
+
+## Book Appointment
+
+![Appointment]
+
+## My Account
+
+![Dashboard]
+
 | Home | Doctors |
-|------|----------|
-| ![](screenshots/home.png) | ![](screenshots/doctors.png) |
 
 | Appointment | Dashboard |
-|-------------|-----------|
-| ![](screenshots/appointment.png) | ![](screenshots/dashboard.png) |
-
----
 
 # Features
 
